@@ -15,7 +15,7 @@ O tema que escolhi, está relacionado ao meu cachorro. Apenas uma viagem bem hum
   
 #  Tecnologias utilizadas
 
-##  HTML, CSS, JS, JQUERY
+####  HTML, CSS, JS, JQUERY
 
 #  Autor
 
