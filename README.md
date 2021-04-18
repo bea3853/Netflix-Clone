@@ -1,6 +1,8 @@
 # NetFlix-Clone
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/Calculadora/blob/main/LICENSE)
+https://netflix-clone.bealves.repl.co 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/netflix-clone/blob/master/LICENSE)
 
   
 
