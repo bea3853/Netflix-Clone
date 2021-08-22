@@ -9,7 +9,7 @@ https://netflix-clone.bealves.repl.co
 #  Sobre o projeto
 
   
-Layout Clone da Netflix, criado através das explicações do Professor Felipe Aguiar, da Dio Innovation One.
+🐶Layout Clone da Netflix, criado através das explicações do Professor Felipe Aguiar, da Dio Innovation One.
 O tema que escolhi, está relacionado ao meu cachorro. Apenas uma viagem bem humorada. 🐶
 
   
